@@ -1,0 +1,4 @@
+framework module TDShopSDK_lite {
+    header "TDShopSDK_lite-Swift.h"
+    requires objc
+}
